@@ -1,0 +1,7 @@
+{
+  "name": "hooksparticle",
+  "version": "1.0.0",
+  "dependencies": {
+    "particle-api-js": "6.2.0"
+  }
+}
